@@ -1,6 +1,6 @@
 # npmtest-nodewebkit
 
-#### basic test coverage for  nodewebkit (v0.11.6)  [![npm package](https://img.shields.io/npm/v/npmtest-nodewebkit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodewebkit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodewebkit.svg)](https://travis-ci.org/npmtest/node-npmtest-nodewebkit)
+#### basic test-coverage for  nodewebkit (v0.11.6)  [![npm package](https://img.shields.io/npm/v/npmtest-nodewebkit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nodewebkit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nodewebkit.svg)](https://travis-ci.org/npmtest/node-npmtest-nodewebkit)
 
 #### A installer for node-webkit
 
